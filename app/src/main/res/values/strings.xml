@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">L11_Hoang_52840_IOFGame</string>
+    <string name="Name_App">IOF System</string>
+    <string name="ResultNumberGame">Result Number Game:</string>
+    <string name="ResultImgGame">Result Image Game:</string>
+    <string name="Number">Number</string>
+    <string name="Name">Name</string>
+    <string name="Play">Play</string>
+    <string name="Tutorial">Pick the biggest number</string>
+    <string name="Result">Result</string>
+    <string name="Score">Score</string>
+    <string name="Start">START</string>
+    <string name="NumberGame">Number Game</string>
+    <string name="ImageGame">Image Game</string>
+    <string name="GoToNumberGame">Number Game</string>
+    <string name="ReturnHome">Home</string>
+    <string name="Zero">0</string>
+    <string-array name="Games">
+        <item>Number Game</item>
+        <item>Image Game</item>
+    </string-array>
+    <string-array name="pools">
+        <item>Select answer:</item>
+        <item>bear</item>
+        <item>cat</item>
+        <item>mouse</item>
+        <item>dog</item>
+        <item>crocodile</item>
+        <item>chicken</item>
+    </string-array>
+</resources>
